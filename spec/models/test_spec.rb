@@ -1,7 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe Test, type: :model do
-
   context 'something' do
     context 'lol' do
       it 'does something lol' do
